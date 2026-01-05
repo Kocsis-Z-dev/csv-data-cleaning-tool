@@ -26,10 +26,8 @@ This tool shows a clean, repeatable approach to that process.
 ## Tech stack
 - Python
 - pandas
-- CSV-based workflows
----
-## Notes
-This repository is intentionally simple and transparent.  
-It focuses on **clarity, correctness, and practical value**, not overengineering.
-
-If you need help cleaning, validating, or preparing CSV / Excel data for further use, this project represents how I work.
+## Example usage
+```python
+from clean_csv import clean_csv
+clean_csv(input_path="input.csv", output_path="output_clean.csv")
+```
