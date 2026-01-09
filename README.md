@@ -31,3 +31,10 @@ This tool shows a clean, repeatable approach to that process.
 from clean_csv import clean_csv
 clean_csv(input_path="input.csv", output_path="output_clean.csv")
 ```
+---
+## Need help with your own CSV / Excel file?
+
+If you need custom cleaning, fixing messy data, or automating CSV / Excel processing with Python, I can help.
+
+Hire me on Fiverr:
+https://www.fiverr.com/USERNAME/clean-format-and-automate-your-excel-or-csv-with-python
